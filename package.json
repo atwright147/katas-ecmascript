@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "Andy Wright <atwright147@gmail.com>",
   "license": "MIT",
+  "private": true,
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
